@@ -1,6 +1,6 @@
 {
   "version": "10.3.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "49d3c1530f95f52e1a2db0b9ffb7e08cf9084e23c8303866393b26ab6d44d912",
+  "sha256": "33c517b509f2f86e4774278d4700c997dfb6fa6fb1d21751d32000b28a3814e2",
   "notes": "Major stability, OCR recovery, verification and fail-safe improvements"
 }

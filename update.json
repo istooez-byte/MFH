@@ -1,6 +1,6 @@
 {
-  "version": "10.5.1",
+  "version": "10.5.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "d972cdafdd3b3044b5d0a4133e7ba3be46ef58e0a21d7d355b7fb39bc8af974a",
-  "notes": "Combined all challenge screenshots into one continuously updated image file"
+  "sha256": "f710e2485c0127d74d0a75e6ebbf886bef61c16a52e8e71d21ce882f3c632fee",
+  "notes": "Fixed missing defaultdict import in frozen screenshot keyword recovery"
 }

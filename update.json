@@ -1,6 +1,6 @@
 {
-  "version": "10.2.4",
+  "version": "10.3.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "4f2dde4e064e8b8884a7fd0affe818fef8e9fc36c3917330258425d50aca86d9",
-  "notes": "Added Telegram screenshots for success and failed verification"
+  "sha256": "49d3c1530f95f52e1a2db0b9ffb7e08cf9084e23c8303866393b26ab6d44d912",
+  "notes": "Major stability, OCR recovery, verification and fail-safe improvements"
 }

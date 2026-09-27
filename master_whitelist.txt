@@ -24,6 +24,7 @@ gooseberry
 grape
 grapefruit
 guava
+honeyberry
 honeydew
 jabuticaba
 jackfruit

@@ -1,6 +1,6 @@
 {
-  "version": "10.1.2",
+  "version": "10.2.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "6853b748b8692b76d3aa22b4762bb9c5baa55be8b17891974cfdca4c873861bf",
+  "sha256": "21d8ccc6b060addaf4147029430f5cc67051b9927be2851b4958460a7a7af1cf",
   "notes": "Updater reliability improvements"
 }

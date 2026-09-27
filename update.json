@@ -1,6 +1,6 @@
 {
-  "version": "10.3.0",
+  "version": "10.4.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "33c517b509f2f86e4774278d4700c997dfb6fa6fb1d21751d32000b28a3814e2",
-  "notes": "Major stability, OCR recovery, verification and fail-safe improvements"
+  "sha256": "a838154b5a408f27bff4dce448a29a94fbd7022fb40ab63b5a1fedbe111f2fcc",
+  "notes": "Replaced live multi-frame OCR with fast screenshot-based challenge detection and keyword prediction"
 }

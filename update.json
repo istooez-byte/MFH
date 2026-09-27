@@ -1,6 +1,6 @@
 {
   "version": "10.4.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "fbd8ea4dac76ce0b51be7621fb113b9f75e10cb1367d68b5b33909a20fb8281a",
+  "sha256": "952caec02e2155875edb869c935be68ba1bdb06c511f3095a98ba14ae52987af",
   "notes": "Improved fast challenge detection with context validation and duplicate suppression"
 }

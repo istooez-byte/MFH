@@ -1,6 +1,6 @@
 {
-  "version": "10.2.3",
+  "version": "10.2.4",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "31894fbe33e912cc3979c44fa8d8092c9298cc0615f533df836fd9ee5c9554ce",
-  "notes": "Added missing success verification and reward message detection"
+  "sha256": "4f2dde4e064e8b8884a7fd0affe818fef8e9fc36c3917330258425d50aca86d9",
+  "notes": "Added Telegram screenshots for success and failed verification"
 }

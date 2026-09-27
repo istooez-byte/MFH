@@ -1,6 +1,6 @@
 {
-  "version": "10.4.1",
+  "version": "10.4.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "bb268c8edc5d21afc07a1484814ac265976a165476319d53dd69d7ebbb6799f2",
-  "notes": "Fixed fast screenshot detector runtime helpers"
+  "sha256": "08f943b70f7f264ac73341d3567c9d49716122fc5c15f7cbe0beaeb3165a7069",
+  "notes": "Improved fast challenge detection with context validation and duplicate suppression"
 }

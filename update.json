@@ -1,6 +1,6 @@
 {
-  "version": "10.4.0",
+  "version": "10.4.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "a838154b5a408f27bff4dce448a29a94fbd7022fb40ab63b5a1fedbe111f2fcc",
-  "notes": "Replaced live multi-frame OCR with fast screenshot-based challenge detection and keyword prediction"
+  "sha256": "bb268c8edc5d21afc07a1484814ac265976a165476319d53dd69d7ebbb6799f2",
+  "notes": "Fixed fast screenshot detector runtime helpers"
 }

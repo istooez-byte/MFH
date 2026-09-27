@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
+  "version": "10.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "ebe14e431e6aca46bbf701f1760ad1ca2efac8af39d3dbfaaf4d1d0495a0f667",
-  "notes": "Initial updater-capable V10 release"
+  "sha256": "b202074e736626cde6a24493227453d006d4e93ff7567963b046ccc5782f757f",
+  "notes": "Window-relative OCR, Telegram status screenshot and watchdog"
 }

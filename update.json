@@ -1,6 +1,6 @@
 {
-  "version": "10.4.3",
+  "version": "10.4.5",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "e9e9885e65d6cc12f640fb6e378ce38f7e6bf70b199a7ef2f20b13d0864b4317",
-  "notes": "Fixed updater SHA verification with version-specific downloads and retry handling"
+  "sha256": "979a322847abb919367822e97bf0a9f7ff996b23fff2f1484139bef495fa366a",
+  "notes": "Changed challenge flow to recover keyword first and save screenshot only after confirmed detection"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.2.1",
+  "version": "10.2.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "21d8ccc6b060addaf4147029430f5cc67051b9927be2851b4958460a7a7af1cf",
-  "notes": "Updater reliability improvements"
+  "sha256": "6cdb39ac96fa5541c9f31f5523cd4f8945615c7eb10d675d616d3b3b0b61708a",
+  "notes": "Fixed SCAN_INTERVAL monitor crash after keyword detection"
 }

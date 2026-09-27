@@ -1,6 +1,6 @@
 {
-  "version": "10.2.2",
+  "version": "10.2.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "6cdb39ac96fa5541c9f31f5523cd4f8945615c7eb10d675d616d3b3b0b61708a",
-  "notes": "Fixed SCAN_INTERVAL monitor crash after keyword detection"
+  "sha256": "31894fbe33e912cc3979c44fa8d8092c9298cc0615f533df836fd9ee5c9554ce",
+  "notes": "Added missing success verification and reward message detection"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.7.0",
+  "version": "10.7.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "83bdb8ff9cd237fdd8a27b6fa7e12f52433ed7cdd7186a3d72d913bb84433bea",
-  "notes": "Added automatic custom whitelist promotion to GitHub master and live master sync for all clients"
+  "sha256": "4a18e9d41cac190b584cc40a3bd48b6948b19d9d77179a82a48aca21b0ee6827",
+  "notes": " Fixed Telegram unknown screenshot dimensions and stopped repeated unknown challenge spam"
 }

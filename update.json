@@ -1,6 +1,6 @@
 {
-  "version": "10.7.1",
+  "version": "10.7.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "4a18e9d41cac190b584cc40a3bd48b6948b19d9d77179a82a48aca21b0ee6827",
-  "notes": " Fixed Telegram unknown screenshot dimensions and stopped repeated unknown challenge spam"
+  "sha256": "13460717b7805080311fefcf3b7cdfd19920463b5a7401e777e8413707a3f43e",
+  "notes": "Added automatic OCR coordinate migration and chat-area repair for resized or moved MapleStory windows"
 }

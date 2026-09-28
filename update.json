@@ -1,6 +1,6 @@
 {
-  "version": "10.5.2",
+  "version": "10.5.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "f710e2485c0127d74d0a75e6ebbf886bef61c16a52e8e71d21ce882f3c632fee",
-  "notes": "Fixed missing defaultdict import in frozen screenshot keyword recovery"
+  "sha256": "0e8787d2e595dca851d04e3caa02755319a1daae589099fc581b9e64784ba7d8",
+  "notes": "Improved Telegram disconnect recovery and automatic reconnection"
 }

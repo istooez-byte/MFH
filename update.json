@@ -1,6 +1,6 @@
 {
-  "version": "10.7.2",
+  "version": "10.8.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "13460717b7805080311fefcf3b7cdfd19920463b5a7401e777e8413707a3f43e",
-  "notes": "Added automatic OCR coordinate migration and chat-area repair for resized or moved MapleStory windows"
+  "sha256": "0b2e66eeb5924329f2e6fea63691ab883b618209895d83c01faba1b0040d9913",
+  "notes": "Fixed Caps Lock typing, stale success verification and false unknown challenge detection"
 }

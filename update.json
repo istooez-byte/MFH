@@ -1,6 +1,6 @@
 {
-  "version": "10.8.0",
+  "version": "10.8.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "0b2e66eeb5924329f2e6fea63691ab883b618209895d83c01faba1b0040d9913",
-  "notes": "Fixed Caps Lock typing, stale success verification and false unknown challenge detection"
+  "sha256": "b77313642b8ae1fdfe3a7efe30cdaf995bbdc3765a21803d1903176ca8f7cbb0",
+  "notes": "Fixed OCR going off-grid by adding strict Willow window detection and rejecting browser/File Explorer windows"
 }

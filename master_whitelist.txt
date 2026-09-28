@@ -61,3 +61,7 @@ strawberry
 tangerine
 tayberry
 watermelon
+rhubarb
+crowberry
+sapote
+guinep

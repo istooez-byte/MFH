@@ -1,6 +1,6 @@
 {
-  "version": "10.6.0",
+  "version": "10.7.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "203c7528f04afb05e5efbf31a309fa3fcbb0cd53db78ec70248aa4da2fb8e6d7",
-  "notes": "Added Telegram unknown-word recovery with /whitelist live recheck and fixed game-relative OCR capture"
+  "sha256": "83bdb8ff9cd237fdd8a27b6fa7e12f52433ed7cdd7186a3d72d913bb84433bea",
+  "notes": "Added automatic custom whitelist promotion to GitHub master and live master sync for all clients"
 }

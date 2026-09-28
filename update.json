@@ -1,6 +1,6 @@
 {
-  "version": "10.8.1",
+  "version": "10.8.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "b77313642b8ae1fdfe3a7efe30cdaf995bbdc3765a21803d1903176ca8f7cbb0",
-  "notes": "Fixed OCR going off-grid by adding strict Willow window detection and rejecting browser/File Explorer windows"
+  "sha256": "c1ed8ba29cb64024d5ad47be3eecc276eeba4b71dc37d08e5424540c0eb0ed57",
+  "notes": "Added verification recovery and prevented cooldown when success is not confirmed"
 }

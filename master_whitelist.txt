@@ -72,3 +72,4 @@ feijoa
 ackee
 boysenberry
 breadfruit
+currant

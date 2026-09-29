@@ -68,3 +68,4 @@ guinep
 quince
 longan
 dewberry
+feijoa

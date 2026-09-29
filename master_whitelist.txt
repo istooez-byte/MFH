@@ -73,3 +73,4 @@ ackee
 boysenberry
 breadfruit
 currant
+loquat

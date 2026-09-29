@@ -1,6 +1,6 @@
 {
-  "version": "10.8.2",
+  "version": "10.9.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "c1ed8ba29cb64024d5ad47be3eecc276eeba4b71dc37d08e5424540c0eb0ed57",
-  "notes": "Added verification recovery and prevented cooldown when success is not confirmed"
+  "sha256": "0e4f726f872b898ae3fd4d103d23117b74506b1d72dcdadd81f820af0d8e60d5",
+  "notes": "Added OCR alias learning, reduced repeated unknown alerts and hardened master whitelist syncing"
 }

@@ -75,3 +75,4 @@ breadfruit
 currant
 loquat
 jujube
+physalis

@@ -74,3 +74,4 @@ boysenberry
 breadfruit
 currant
 loquat
+jujube

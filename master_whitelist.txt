@@ -77,3 +77,4 @@ loquat
 jujube
 physalis
 yuzu
+salak

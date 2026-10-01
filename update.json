@@ -1,6 +1,6 @@
 {
-  "version": "10.12.6",
+  "version": "10.12.7",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "a92f55c6aa838cec8641664f2db6f40fc921a26f7dad710cbda89c0c96a7a85b",
-  "notes": "Added safe chat-close recovery when ALL mode cannot be verified, ensuring Maple chat is closed before the macro resumes after a cancelled submission."
+  "sha256": "6d717708f36794ebbcc1fe6865de6ee893c54ac72efef737c023a77c2d207484",
+  "notes": "Improved ALL/FRIENDS/PARTY/GUILD chat-mode detection using a tighter pixel-font OCR region and multi-pass recognition, and fixed challenge-history image errors when dynamically detected chat widths are wider than previous captures."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.12.4",
+  "version": "10.12.5",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "adf7f2a485be33aace8f12e3d578b0a037582e6b2dbbe2fbbd19c697fbcde164",
-  "notes": "Added free Maple window tracking so Willow can be moved or resized while MFH is monitoring, pauses OCR during window movement, automatically re-detects the chat area after the window settles, and limits Maple focus to actual challenge submission."
+  "sha256": "55e86a2757729e3cb3351e2b87b887fb85e023e6bc7e84a141f5c798efd97f02",
+  "notes": "Updated challenge submission flow to strictly verify ALL chat mode before typing, using ENTER /all ENTER when needed and typing the keyword directly after ALL is confirmed."
 }

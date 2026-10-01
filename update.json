@@ -1,6 +1,6 @@
 {
-  "version": "10.10.0",
+  "version": "10.10.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "134b11ade1d4b6375d521b52bec5bd684bf695e636bdc3dc8c49cceaca23132b",
-  "notes": "Major stability and performance update with cached Maple client detection, crash alerts, improved verification and new fruit icon"
+  "sha256": "3a6b656ed54d5ca21f1448c8c97431b1ed8e0cf517b7dc6ff7138d52d5eeb4ef",
+  "notes": "Improved first-pass keyword OCR with focused keyword cropping, compound-word repair and multi-pass consensus"
 }

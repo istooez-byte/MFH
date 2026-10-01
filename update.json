@@ -1,6 +1,6 @@
 {
-  "version": "10.10.2",
+  "version": "10.10.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "2fa67e8786be9895cf6f96c6045d3da3bf5fde97f05fb77027dd524d4ba5d304",
-  "notes": "Improved UI organization and compact layout, added transparent fruit icon, and added window position/tab memory so the Helper reopens where you left it."
+  "sha256": "c98ddbbf6482c6b111191021c390d56f36957b108d261f99819571b9b97d3dde",
+  "notes": "Reduced reliance on manual whitelist input, added safe automatic OCR learning after verified success, blocked unsafe learned aliases, and improved pre-submit conflict handling"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.12.2",
+  "version": "10.12.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "aab508a0d59f3a574237bd91849ee36b86c064b7d8ab89e378c953163d264766",
-  "notes": "Fixed release self-test for clipped-glyph OCR and retained descender-aware keyword recovery for cases such as olum to plum."
+  "sha256": "c24c58f87c4452d9b8e196d039e25a59772d495532ae0862377818e980d06ad8",
+  "notes": "Added continuous Maple client crash detection during cooldown/sleep, with immediate cooldown cancellation, auto-stop, and Telegram alert when the Maple window is lost."
 }

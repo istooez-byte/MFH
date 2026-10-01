@@ -1,6 +1,6 @@
 {
-  "version": "10.11.0",
+  "version": "10.11.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "35d797d5208ed20ca49f35533eabc13a0bbd5b1df467f6d82990037231cb08e3",
-  "notes": "Added online username-based licensing with owner approval, custom license hours, live remaining-hours display, GitHub-backed license management, expiry/revocation enforcement, and update checks whenever START is pressed."
+  "sha256": "35f521fcbb9e249a36481643eecb66f6b64c26e4e2d13daacff3d0937374e26b",
+  "notes": "Fixed online license server configuration, prevented stale GitHub config from overriding the local license server URL, and added automatic migration for the previous Worker URL."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.12.3",
+  "version": "10.12.4",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "c24c58f87c4452d9b8e196d039e25a59772d495532ae0862377818e980d06ad8",
-  "notes": "Added continuous Maple client crash detection during cooldown/sleep, with immediate cooldown cancellation, auto-stop, and Telegram alert when the Maple window is lost."
+  "sha256": "adf7f2a485be33aace8f12e3d578b0a037582e6b2dbbe2fbbd19c697fbcde164",
+  "notes": "Added free Maple window tracking so Willow can be moved or resized while MFH is monitoring, pauses OCR during window movement, automatically re-detects the chat area after the window settles, and limits Maple focus to actual challenge submission."
 }

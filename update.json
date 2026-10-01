@@ -1,6 +1,6 @@
 {
-  "version": "10.12.5",
+  "version": "10.12.6",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "55e86a2757729e3cb3351e2b87b887fb85e023e6bc7e84a141f5c798efd97f02",
-  "notes": "Updated challenge submission flow to strictly verify ALL chat mode before typing, using ENTER /all ENTER when needed and typing the keyword directly after ALL is confirmed."
+  "sha256": "a92f55c6aa838cec8641664f2db6f40fc921a26f7dad710cbda89c0c96a7a85b",
+  "notes": "Added safe chat-close recovery when ALL mode cannot be verified, ensuring Maple chat is closed before the macro resumes after a cancelled submission."
 }

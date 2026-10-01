@@ -1,6 +1,6 @@
 {
-  "version": "10.11.1",
+  "version": "10.12.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "35f521fcbb9e249a36481643eecb66f6b64c26e4e2d13daacff3d0937374e26b",
-  "notes": "Fixed online license server configuration, prevented stale GitHub config from overriding the local license server URL, and added automatic migration for the previous Worker URL."
+  "sha256": "aab508a0d59f3a574237bd91849ee36b86c064b7d8ab89e378c953163d264766",
+  "notes": "Fixed release self-test for clipped-glyph OCR and retained descender-aware keyword recovery for cases such as olum to plum."
 }

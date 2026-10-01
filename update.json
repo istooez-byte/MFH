@@ -1,6 +1,6 @@
 {
-  "version": "10.10.3",
+  "version": "10.11.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "c98ddbbf6482c6b111191021c390d56f36957b108d261f99819571b9b97d3dde",
-  "notes": "Reduced reliance on manual whitelist input, added safe automatic OCR learning after verified success, blocked unsafe learned aliases, and improved pre-submit conflict handling"
+  "sha256": "35d797d5208ed20ca49f35533eabc13a0bbd5b1df467f6d82990037231cb08e3",
+  "notes": "Added online username-based licensing with owner approval, custom license hours, live remaining-hours display, GitHub-backed license management, expiry/revocation enforcement, and update checks whenever START is pressed."
 }

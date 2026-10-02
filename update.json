@@ -1,6 +1,6 @@
 {
-  "version": "10.12.7",
+  "version": "10.12.8",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "6d717708f36794ebbcc1fe6865de6ee893c54ac72efef737c023a77c2d207484",
-  "notes": "Improved ALL/FRIENDS/PARTY/GUILD chat-mode detection using a tighter pixel-font OCR region and multi-pass recognition, and fixed challenge-history image errors when dynamically detected chat widths are wider than previous captures."
+  "sha256": "e9b4210097048c7e54df1ccc6b951efeec932c9283fd8e462021a484672aab51",
+  "notes": "Improved challenge detection for 1920x1080 and larger chat panels, added support for wrapped multi-line Willow prompts, adaptive prompt sizing, and multi-layout OCR for more reliable keyword recognition."
 }

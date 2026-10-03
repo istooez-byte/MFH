@@ -1,6 +1,6 @@
 {
-  "version": "10.13.1",
+  "version": "10.13.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "96ec8c055052b44c89a85b7482918864f4bbcfe8a673da329c4fcbc81e6c526b",
-  "notes": "Improved ALL-chat handling with stronger multi-region chat-mode OCR and a forced /all fallback when the mode button remains unreadable, preventing valid detected challenges from being cancelled due to UNKNOWN chat-mode OCR."
+  "sha256": "ab3a14ad31b8cd28b3db11010d4194912d7881cb5c1cff05dba910f889bb38b2",
+  "notes": "Added an optional Auto /all setting, allowing users to enable automatic ALL-chat detection and switching or disable it entirely and submit keywords normally."
 }

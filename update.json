@@ -1,6 +1,6 @@
 {
-  "version": "10.14.0",
+  "version": "10.14.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "776112d5e4d17a7eab367bd8150b2acbe0a53afd027d8417246050c740196ea5",
-  "notes": "Added Maximum Accuracy CPU OCR with 7-frame temporal challenge capture, parallel multi-frame OCR, median-frame fusion, stricter independent-result consensus, and automatic re-scanning of ambiguous keywords instead of guessing. GPU is not required."
+  "sha256": "888f8776951b81d6ff204be6cab01df0a30db6c2afde59b2fa2bad60c18e4b69",
+  "notes": "Reorganized the Settings interface into separate Helper and Services tabs, grouping automation, OCR/chat controls, Telegram, updates, data tools and licensing into a cleaner and more compact layout."
 }

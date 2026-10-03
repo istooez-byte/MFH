@@ -1,6 +1,6 @@
 {
-  "version": "10.13.2",
+  "version": "10.14.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "ab3a14ad31b8cd28b3db11010d4194912d7881cb5c1cff05dba910f889bb38b2",
-  "notes": "Added an optional Auto /all setting, allowing users to enable automatic ALL-chat detection and switching or disable it entirely and submit keywords normally."
+  "sha256": "776112d5e4d17a7eab367bd8150b2acbe0a53afd027d8417246050c740196ea5",
+  "notes": "Added Maximum Accuracy CPU OCR with 7-frame temporal challenge capture, parallel multi-frame OCR, median-frame fusion, stricter independent-result consensus, and automatic re-scanning of ambiguous keywords instead of guessing. GPU is not required."
 }

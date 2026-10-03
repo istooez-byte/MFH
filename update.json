@@ -1,6 +1,6 @@
 {
-  "version": "10.13.0",
+  "version": "10.13.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "2ed3d81f6eaf938e57ca4e910aabfc881564ff25947005b5029c2f4218bf00c1",
-  "notes": "Added secure multi-user shared OCR learning with crowd-verified aliases and words, strengthened chat-border detection with multi-signal structural scoring, added full-chat OCR fallback and OCR-aware weighted matching, improved cross-resolution challenge recognition, and added owner controls for approving or blocking shared learning."
+  "sha256": "96ec8c055052b44c89a85b7482918864f4bbcfe8a673da329c4fcbc81e6c526b",
+  "notes": "Improved ALL-chat handling with stronger multi-region chat-mode OCR and a forced /all fallback when the mode button remains unreadable, preventing valid detected challenges from being cancelled due to UNKNOWN chat-mode OCR."
 }

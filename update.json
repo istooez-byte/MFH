@@ -1,6 +1,6 @@
 {
   "version": "10.14.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "742145c96dde85f799f0f6e457f8f4d0dd5fda7b646e7ae16037be2d10e79208",
+  "sha256": "ff2b39383e78c60c602868d0825661bd7c4fd201d63ebedd7a367f2991b25a56",
   "notes": "Improved Maximum Accuracy consensus handling so strong multi-frame OCR is no longer cancelled by a single weak pre-submit recheck, while preserving strong-conflict protection. Also cleaned verified OCR learning to remove prompt fragments such as trailing "for" and tightened shared/local alias quality checks."
 }

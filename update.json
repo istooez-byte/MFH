@@ -1,6 +1,6 @@
 {
-  "version": "10.12.8",
+  "version": "10.13.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "e9b4210097048c7e54df1ccc6b951efeec932c9283fd8e462021a484672aab51",
-  "notes": "Improved challenge detection for 1920x1080 and larger chat panels, added support for wrapped multi-line Willow prompts, adaptive prompt sizing, and multi-layout OCR for more reliable keyword recognition."
+  "sha256": "2ed3d81f6eaf938e57ca4e910aabfc881564ff25947005b5029c2f4218bf00c1",
+  "notes": "Added secure multi-user shared OCR learning with crowd-verified aliases and words, strengthened chat-border detection with multi-signal structural scoring, added full-chat OCR fallback and OCR-aware weighted matching, improved cross-resolution challenge recognition, and added owner controls for approving or blocking shared learning."
 }

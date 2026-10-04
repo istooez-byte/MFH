@@ -1,6 +1,6 @@
 {
-  "version": "10.15.0",
+  "version": "10.15.2",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "95d3797b94c251b249460602f39558b04ecdb63138b7eb195af3fa0243a00a89",
-  "notes": "Stability release with cumulative multi-burst OCR consensus, stricter prompt-only keyword extraction, unified uncertainty handling before unknown alerts, stabilized chat-border tracking, resilient master-whitelist synchronization, Telegram outbound retries, secret-safe rotating activity logs, and watchdog false-positive reduction."
+  "sha256": "c4b368f9f67bf3d9d776f1108e7abe3d09f73f55e08f170cf3a1f62900f77cbb",
+  "notes": "Fixed release self-test failure caused by a missing AST import in the Telegram regression check. Telegram self-healing remains unchanged, and duplicate Telegram polling methods are still validated before publishing."
 }

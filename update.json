@@ -1,6 +1,6 @@
 {
-  "version": "10.17.14",
+  "version": "10.17.15",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "77313b86ab3355c4432a69df728ee3bbe9b72ba7d272de0d20ceca3662e228af",
-  "notes": "Telegram background listener/reconnect noise has been removed from Activity."
+  "sha256": "686e8fa7056a70a01fa2f7d241386a7ad2d865f450c0dc5ed941b6c78587f2b3",
+  "notes": "Added live license expiry countdown."
 }

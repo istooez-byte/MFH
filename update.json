@@ -1,6 +1,6 @@
 {
-  "version": "10.17.2",
+  "version": "10.17.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "698e096dfd035772131d1352c365ede1d79c586c9c43864f2202f600ce0447a7",
-  "notes": "Fixed the Support window layout so SEND and Refresh remain visible on Windows systems using display scaling. The message composer is now permanently anchored at the bottom of the Support window while retaining Ctrl+Enter as a send shortcut."
+  "sha256": "e42326cb50f66da25d72ed951cfc8101590d513513809a46c46fb22ff05559ed",
+  "notes": "Improved Support chat typing controls. Enter now sends messages, while Shift+Enter inserts a new line. The Owner Support Inbox uses the same keyboard behavior, with Ctrl+Enter retained as an additional send shortcut."
 }

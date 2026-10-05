@@ -1,6 +1,6 @@
 {
-  "version": "10.17.5",
+  "version": "10.17.6",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "746d8a8c328f1c6730d1540d4799db381c45eb6f1c02c1bb34b8dfa18faf3e5d",
-  "notes": "Added Support reply notifications for users."
+  "sha256": "4ed9baa2fd963bcc755266ee095740bdd9d3747468e0e05ebbcf47f1bab243af",
+  "notes": "Shared learning reports are no longer discarded after temporary server/GitHub failures."
 }

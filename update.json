@@ -1,6 +1,6 @@
 {
-  "version": "10.17.15",
+  "version": "10.17.16",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "686e8fa7056a70a01fa2f7d241386a7ad2d865f450c0dc5ed941b6c78587f2b3",
-  "notes": "Added live license expiry countdown."
+  "sha256": "6838a03700dfd7663e8c71ae1c3d0856413a9419d7b78298f7d6608031cee777",
+  "notes": "="
 }

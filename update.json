@@ -1,6 +1,6 @@
 {
-  "version": "10.17.13",
+  "version": "10.17.14",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "02444865f485d42925ae2915ba6e64dca23107b1c9ec4a53fab6cc23f2673c88",
-  "notes": "Made the main Helper window much more compact."
+  "sha256": "77313b86ab3355c4432a69df728ee3bbe9b72ba7d272de0d20ceca3662e228af",
+  "notes": "Telegram background listener/reconnect noise has been removed from Activity."
 }

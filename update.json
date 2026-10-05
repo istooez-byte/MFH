@@ -1,6 +1,6 @@
 {
-  "version": "10.17.6",
+  "version": "10.17.7",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "4ed9baa2fd963bcc755266ee095740bdd9d3747468e0e05ebbcf47f1bab243af",
-  "notes": "Shared learning reports are no longer discarded after temporary server/GitHub failures."
+  "sha256": "e9d2e4945d4d68e23c30e3b1a378cb6209bf12e78fae5dece3b0a628f1093b5f",
+  "notes": "Support is now available to every MFH user, even without an active license."
 }

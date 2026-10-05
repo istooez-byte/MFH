@@ -1,6 +1,6 @@
 {
-  "version": "10.17.9",
+  "version": "10.17.11",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "9250b154a471ccb0d086ef85ec242548ee637d8d24dfe9482beb21465527a914",
-  "notes": "Added server-side payment request tracking with unique Payment IDs."
+  "sha256": "a771e0475a77e9812415ce70b588827e475b045e429fe9446a1fbc2d2686365d",
+  "notes": "Support photos now display directly inside the conversation."
 }

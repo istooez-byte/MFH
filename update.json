@@ -1,6 +1,6 @@
 {
-  "version": "10.17.3",
+  "version": "10.17.5",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "e42326cb50f66da25d72ed951cfc8101590d513513809a46c46fb22ff05559ed",
-  "notes": "Improved Support chat typing controls. Enter now sends messages, while Shift+Enter inserts a new line. The Owner Support Inbox uses the same keyboard behavior, with Ctrl+Enter retained as an additional send shortcut."
+  "sha256": "746d8a8c328f1c6730d1540d4799db381c45eb6f1c02c1bb34b8dfa18faf3e5d",
+  "notes": "Added Support reply notifications for users."
 }

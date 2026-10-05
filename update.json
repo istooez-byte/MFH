@@ -1,6 +1,6 @@
 {
-  "version": "10.16.0",
+  "version": "10.17.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "8a05e254f4cc3f4db0456b1515188d6842cfed0d8ed0d2732e70d959b0ced611",
-  "notes": "Improved unattended farming reliability with deferred Telegram delivery retries, protected queued screenshot snapshots, Worker-first master whitelist synchronization with multiple fallbacks, permanent-license support, live client-version and Last Seen synchronization for the Owner License Manager, while keeping the main Helper interface compact and unchanged."
+  "sha256": "f0c2f3185d52533676b1b333dfd7bb40b2b69cc526b47d28eccaa89fc1bec4b5",
+  "notes": "Added private in-app support messaging between licensed MFH users and the owner."
 }

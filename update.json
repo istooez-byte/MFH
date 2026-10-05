@@ -1,6 +1,6 @@
 {
-  "version": "10.17.12",
+  "version": "10.17.13",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "8a91f416e71edb0b67140baac6b813ff72b2a4adbdaca513e374d3f51d2dbf66",
-  "notes": "Redesigned the Helper UI to reduce clutter."
+  "sha256": "02444865f485d42925ae2915ba6e64dca23107b1c9ec4a53fab6cc23f2673c88",
+  "notes": "Made the main Helper window much more compact."
 }

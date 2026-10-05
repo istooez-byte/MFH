@@ -1,6 +1,6 @@
 {
-  "version": "10.17.7",
+  "version": "10.17.9",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "e9d2e4945d4d68e23c30e3b1a378cb6209bf12e78fae5dece3b0a628f1093b5f",
-  "notes": "Support is now available to every MFH user, even without an active license."
+  "sha256": "9250b154a471ccb0d086ef85ec242548ee637d8d24dfe9482beb21465527a914",
+  "notes": "Added server-side payment request tracking with unique Payment IDs."
 }

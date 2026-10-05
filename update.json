@@ -1,6 +1,6 @@
 {
-  "version": "10.17.19",
+  "version": "10.17.20",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "9c302d7fa3505ab48f04c73e93a531d295f05ea6fcbef2d0a3252841700549b6",
-  "notes": "AESTHETIC FIX"
+  "sha256": "7a68006f93df4fa9bb1023254a039c2670315b152ea69c074425e8470ad9c71a",
+  "notes": "TITLE BAR"
 }

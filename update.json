@@ -1,6 +1,6 @@
 {
-  "version": "10.17.0",
+  "version": "10.17.1",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "fb1c26248b4dfe6960779ffd82f74d4cb56348dd717b7ad33c2873e39e3e2540",
-  "notes": "Added private in-app support messaging between licensed MFH users and the owner."
+  "sha256": "48af2dc198b75c8655fdeb570955be0a7b27be223e645aeeca0e17e2fd12a204",
+  "notes": "Fixed support-server deployment and automatic updater reliability."
 }

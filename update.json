@@ -1,6 +1,6 @@
 {
-  "version": "10.17.20",
+  "version": "10.18.0",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "7a68006f93df4fa9bb1023254a039c2670315b152ea69c074425e8470ad9c71a",
-  "notes": "TITLE BAR"
+  "sha256": "fc4e789ef6b37203b8afe01134317a4bbf5daf507f6975e1668d7763fbfc69d6",
+  "notes": "Support has been heavily optimized for better server reliability"
 }

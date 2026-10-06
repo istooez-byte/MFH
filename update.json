@@ -1,6 +1,6 @@
 {
-  "version": "10.18.1",
+  "version": "10.18.3",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "44e522b4eaaf3515a9c7334ccb7aaddc26da1c1b8659b29a8e068cdf1bb8b11d",
-  "notes": "SUPPORT PHOTO HOTFIX"
+  "sha256": "d2f690067c2df020bf24b50504273039f52e5a806d98bb4385eb52bc2595c2ef",
+  "notes": "A Support reliability update is now available."
 }

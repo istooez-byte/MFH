@@ -1,6 +1,6 @@
 {
-  "version": "10.18.16",
+  "version": "10.18.17",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "9bfa15509879d026d5cf8bd25da0175264f299f886b490a98a23b9a56899d81d",
-  "notes": "DISCORD SUPPORT LINK PUBLISHING FIX"
+  "sha256": "d1148b37499db181eb1f71b66e45a539e2ec796af63a90c3abd3cc7141c4e6b9",
+  "notes": "DISCORD SUPPORT LINK LIVE-UPDATE FIX"
 }

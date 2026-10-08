@@ -1,6 +1,6 @@
 {
-  "version": "10.18.17",
+  "version": "10.18.18",
   "exe": "MapleFruitHelper.exe",
-  "sha256": "d1148b37499db181eb1f71b66e45a539e2ec796af63a90c3abd3cc7141c4e6b9",
-  "notes": "DISCORD SUPPORT LINK LIVE-UPDATE FIX"
+  "sha256": "4bcaff77948a4777fa41708b11fe3b515888d33a16c29155e31b279f9d3aafd6",
+  "notes": "• Improved license verification reliability"
 }
